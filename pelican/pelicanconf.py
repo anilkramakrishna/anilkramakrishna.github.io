@@ -48,4 +48,4 @@ HTML for sidebar
         <li><a href="http://github.com/anilkram" target="_blank"><img src="./images/github.svg" style="width:36px;height:32.5px;"></a></li>
 """
 
-THEME = "pelican-themes/Flex/"
+THEME = "Flex/"

@@ -4,12 +4,12 @@ save_as: index.html
 
 <!--![Pelican](../images/anil.jpg) Hi, I’m a third year PhD student at the Department of Computer Science of USC, working under the advisement of Prof. Shrikanth Narayanan.-->
 
-<!--<img src="https://github.com/anilkramakrishna/anilkramakrishna.github.io/tree/main/images/anil.jpg"/ align="left" style="padding-right: 24px">-->
+<!--<img src="anilkramakrishna.github.io/images/anil.jpg"/ align="left" style="padding-right: 24px">-->
 
 I work as a Senior Applied Scientist in the Responsible AI team of Amazon AGI group. I graduated from the PhD program at the Department of Computer Science of USC in 2019, where I was working under the advisement of [Prof. Shrikanth Narayanan](http://sail.usc.edu/people/shri.php).
 
 ### Recent Updates
-- New paper titled 'REAL Sampling: Boosting Factuality and Diversity of Open-Ended Generation via Asymptotic Entropy' to appear in Transactions of Association for Computational Linguistics (TACL), 2025. 
+- New paper titled 'REAL Sampling: Boosting Factuality and Diversity of Open-Ended Generation via Asymptotic Entropy' to appear in Transactions of Association for Computational Linguistics (TACL), 2025.
 - 2 papers accepted at AAAI 2025 workshop on Preventing and Detecting LLM Misinformation.
 - Concluded LLM unlearning challenge at SemEval.
 - 3 papers with collaborators accepted at NAACL 2025.
